@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working a telegram bot<br>👯 I’m looking to collaborate on any projects I can help with<br>🌱 I’m currently learning DSA ,Html, CSS and Js
+🔭 I’m currently working a making a sudoku solver<br>👯 I’m looking to collaborate on any projects I can help with<br>🌱 I’m currently learning DSA ,Html, CSS and Js
 
 
 ## 🌐 Socials:
